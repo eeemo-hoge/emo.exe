@@ -2,15 +2,15 @@
 
 ## 作成動機
 自分だけの対話型プロンプトが欲しかった。
+それに私は頑張りすぎてしまうので、強制的にリマンドする必要があった。
 
 ## 概要
 このプログラムは私の最初の、しっかりパッケージ管理をディレクトリごとに分けて作成したプログラムです。
 内容物は、私の既存のlifespan, pomo, studyTimeTrackerを組み合わせたものです。
-以下リンク{
+以_下リンク
 link of pomo : https://github.com/eeemo-hoge/pomo
 link of studyTimeTracker : https://github.com/eeemo-hoge/studyTimeTracker
 link of lifespan : https://github.com/eeemo-hoge/simple_lifespan_scaling
-}
 
 ##
 <!-- Treeコマンドでディレクトリ構成を記載 -->
