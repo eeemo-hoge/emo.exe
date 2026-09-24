@@ -14,7 +14,39 @@ link of lifespan : https://github.com/eeemo-hoge/simple_lifespan_scaling
 
 ##
 <!-- Treeコマンドでディレクトリ構成を記載 -->
-> tree "emo.exe"
+.
+├── README.md
+├── media_for_readme
+│   └── studyTimeTracking.png
+└── v1.1
+    ├── apps
+    │   ├── lifespan_v1.3
+    │   │   ├── main
+    │   │   └── main.cpp
+    │   ├── pomo
+    │   │   ├── main
+    │   │   └── main.cpp
+    │   └── studyTimeTrackingV1.2
+    │       ├── main
+    │       └── main.cpp
+    ├── lib
+    │   ├── clear_buffer.h
+    │   ├── define.h
+    │   ├── define2.h
+    │   ├── forprint.h
+    │   ├── last_session.h
+    │   ├── long_break.h
+    │   ├── short_break.h
+    │   └── string_media_path.h
+    ├── media
+    │   ├── aki.mp4
+    │   ├── jazz_dj.mp3
+    │   ├── reminder.txt
+    │   ├── rewind.mp3
+    │   └── studyTimeLog.csv
+    └── src
+        ├── main
+        └── main.cpp
 
 
 ## ユーザー側でできる設定
